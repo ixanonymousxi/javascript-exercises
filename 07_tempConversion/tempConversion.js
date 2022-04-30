@@ -3,8 +3,8 @@ const ftoc = function (Fahrenheit) {
 
 };
 
-const ctof = function(Clesius) {
-  return Number(((Clesius * (9/5)) + 32).toFixed(1));
+const ctof = function(Celsius) {
+  return Number(((Celsius * (9/5)) + 32).toFixed(1));
 };
 
 // Do not edit below this line
